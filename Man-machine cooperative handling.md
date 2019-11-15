@@ -1,7 +1,7 @@
 关键词>视频>论文
 KEY WORDS: Human-Robot Cooperative;
 human-robot manipulator cooperative
-# 人机协作 
+# 人机协作搬运
 ## [Dynamic Human-Robot Interaction -Realizations of collaborative motion and peg-in-hole-](https://www.youtube.com/watch?v=xB9-vEiZwKY)  
 We developed a dynamic human-robot interactive system consisting of a high-speed vision and a high-speed robot hand. The high-speed vision can measure the position and the orientation of the board to be manipulated by a human and a robot. Then the high-speed robot hand can react based on the board information. This system can correspond to a randomly human motion at high-speed and low-latency. Also, this system can compensate the pitch angle, and follow the yaw and roll angles by the human motion. In addition, we successfully achieved a collaborative peg-in-hole. In this task, the diameters of the peg and the hole are 6.350 mm and 6.325 mm, respectively. Therefore, we can perform the high-accuracy peg-in-hole by using the developed human-robot interactive system.
 我们开发了由高速视觉和高速机械手组成的动态人机交互系统。高速视觉可以测量要由人和机器人操纵的板的位置和方向。然后，高速机械手可以根据板信息做出反应。该系统可以对应于高速和低延迟的人类随机运动。而且，该系统可以补偿俯仰角，并通过人类运动来跟踪偏航角和侧倾角。此外，我们成功实现了协作钉入式。在此任务中，栓钉和孔的直径分别为6.350毫米和6.325毫米。因此，通过使用开发的人机交互系统，我们可以执行高精度的钉入孔。
